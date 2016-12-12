@@ -2,9 +2,6 @@
 Classifying SMS messages as SPAM/NON-SPAM based on their content.
 
 
-Spam SMS prediction
-================
-
 Load libraries
 ==============
 
